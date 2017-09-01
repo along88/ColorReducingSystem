@@ -1,0 +1,10 @@
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\ColorService\bin\Debug\ColorService.dll
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\ColorService\bin\Debug\ColorService.pdb
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\ColorService\obj\Debug\ColorService.csprojResolveAssemblyReference.cache
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\ColorService\obj\Debug\ColorService.dll
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\ColorService\obj\Debug\ColorService.pdb
+C:\Users\HNIC\Documents\ImageProcesser\trunk\ColorService\bin\Debug\ColorService.dll
+C:\Users\HNIC\Documents\ImageProcesser\trunk\ColorService\bin\Debug\ColorService.pdb
+C:\Users\HNIC\Documents\ImageProcesser\trunk\ColorService\obj\Debug\ColorService.csprojResolveAssemblyReference.cache
+C:\Users\HNIC\Documents\ImageProcesser\trunk\ColorService\obj\Debug\ColorService.dll
+C:\Users\HNIC\Documents\ImageProcesser\trunk\ColorService\obj\Debug\ColorService.pdb

@@ -1,0 +1,51 @@
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\ColorService.dll
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\ColorService.pdb
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\UbkWinformsColorReducingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kirectepe\Desktop\Projects on SVN\imageprocessor2\branches\WpfWithInputValues\branches\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\UbkWinformsColorReducingSystem.csproj.GenerateResource.Cache
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\ColorService.dll
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\ColorService.pdb
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\UbkWinformsColorReducingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kirectepe\Desktop\UbkWpfColorReducingSystem\WindowsFormsApp1\obj\Debug\UbkWinformsColorReducingSystem.csproj.GenerateResource.Cache
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\ColorService.dll
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\ColorService.pdb
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\obj\Debug\UbkWinformsColorReducingSystem.csprojResolveAssemblyReference.cache
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\obj\Debug\UbkWinformsColorReducingSystem.csproj.GenerateResource.Cache
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HNIC\Documents\ImageProcesser\trunk\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
